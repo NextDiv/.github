@@ -1,1 +1,1 @@
-<img src="./assets/header.png" title="header-icon" alt="Ícone de cabeçalho da NextDiv" />
+<img src="./header.png" title="header-icon" alt="Ícone de cabeçalho da NextDiv" />
